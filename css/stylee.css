@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+*{
+    margin: 0;
+padding: 0;
+box-sizing: border-box;
+list-style-type:none;
+scroll-behavior:smooth;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+
+.sec4cont{
+    border-bottom: 3px solid #ff0404;
+}
+
+
+.sec6cont{
+    border-bottom: 3px solid #ff0404;
+
+}
+
+
+.section7 i:hover{
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    }
+.nav-link:hover{
+   color:red;
+   font-size: larger;
+}
